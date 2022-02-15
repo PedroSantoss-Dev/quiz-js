@@ -1,2 +1,2 @@
 ## Quiz-js
- <img height="140em" src="./quiz.png"/>
+ <img height="340em" src="./quiz.png"/>
